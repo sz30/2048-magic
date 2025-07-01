@@ -1,4 +1,4 @@
-[English](README.md) | [简体中文](README.zh-CN.md)
+[English](README.md) | [简体中文](README.zh-CN.md) | [繁體中文](README.zh-TW.md)
 # 🎮 2048 ++
 
 一个基于经典2048游戏的增强版本，加入了更多有趣的功能！这个项目是我在闲暇时间开发的一个小游戏，希望能给大家带来一些乐趣。
