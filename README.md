@@ -89,4 +89,4 @@ Thanks to the following sponsors for supporting this project:
 - [Serv00](https://www.serv00.com/) providing the server
 
 ---
-_Last updated: May 2025_
+_Last updated: Jun. 2025_
